@@ -1,2 +1,3 @@
 # python
-show my python for everyone
+pyautogui的简单使用
+
